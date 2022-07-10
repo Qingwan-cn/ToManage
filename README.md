@@ -1,2 +1,3 @@
-# ToManage
-##这里提供ToManage服务端代码，客户端代码见https://github.com/Qingwan-cn/ToManageClient
+# ToManage软件PC端
+## 我使用这些代码实现了Android到Windows的联系。
+## 获取到代码的人可以将这些代码合成为jar包，并利用exe4j工具打包成exe应用。
